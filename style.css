@@ -78,7 +78,7 @@ body{
   margin-left: 24%;
   border-radius: 10px;
   opacity: 0.8;
-  margin-right:15%: ;
+  margin-right:25%: ;
 }
 .temp4
 {
@@ -91,6 +91,7 @@ body{
 .ele{
   cursor: pointer;
   opacity: 0.5;
+  
 }
 
 .ele:hover{
@@ -102,4 +103,12 @@ body{
   position: relative;
   text-align: center;
   color: white;
+}
+#left menu bar
+{
+  color: white;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden;
+  padding-top: 20px;
 }
