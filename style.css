@@ -68,6 +68,8 @@ body{
   /* display: flex; */
   /* align-items: flexstart; */
   /* justify-content: center; */
+
+  
 }
 .temp3
 {
@@ -76,6 +78,7 @@ body{
   margin-left: 24%;
   border-radius: 10px;
   opacity: 0.8;
+  margin-right:15%: ;
 }
 .temp4
 {
@@ -85,40 +88,6 @@ body{
   border-radius: 10px;
    opacity: 0.7; 
 }
-.temp5
-{
-  height: 450px;
-  width: 23%;
-  margin-left: 3%;
-  border-radius: 10px;
-  opacity: 0.8;
-}      
-.temp6
-{
-  height: 450px;
-  width: 22%;
-  margin-left: 24%;
-  margin-top: 1.5%;
-  border-radius: 10px;
-  opacity: 0.8;
-}
-.temp7
-{
-  height: 450px;
-  width: 22%;
-  margin-left: 3%;
-  border-radius: 10px;
-  opacity: 0.8;
-} 
-.temp8
-{
-  height: 450px;
-  width: 23%;
-  margin-left: 3%;
-  border-radius: 10px;
-  opacity: 0.8;
-}   
-
 .ele{
   cursor: pointer;
   opacity: 0.5;
@@ -127,4 +96,10 @@ body{
 .ele:hover{
   opacity: 1;
   transition: .5s;
+}
+.1
+{
+  position: relative;
+  text-align: center;
+  color: white;
 }
