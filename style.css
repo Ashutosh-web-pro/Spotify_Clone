@@ -1,0 +1,130 @@
+*{
+  margin: 0;
+  padding: 0;
+  
+}
+.temp
+{
+  height: 24%;
+  width: 24%;
+  /* display: block; */
+  margin-left: 23%;
+  margin-top: 5%;
+  opacity: 0.8;
+ 
+}
+.temp1
+{
+  height: 25%;
+  width: 25%;
+  margin-left: 1%; 
+  margin-top: 5%;opacity: 0.8;
+} 
+.temp2
+{
+  height: 25.5%;
+  width: 25%;
+  margin-left: 0%;
+  margin-right: 0%;
+  margin-top: 5%;opacity: 0.8;
+  padding: auto;
+  margin: 0%;
+
+  }
+
+.temp3
+{
+  height: 0%;
+  width: 0%;
+   
+}
+body{
+  background-image: url(images/temp6.png);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-style: inherit;
+ 
+  
+}
+.head
+{
+  background-color: #393E46;
+  border: burlywood;
+  
+}
+.one
+{
+ display: flex;
+ justify-content: space-between;
+ align-items: flex-start;
+ color: #b59d9d;
+}
+.img
+{
+  /* height: 600px; */
+  margin-right: auto;
+  width: 90%;
+  /* display: flex; */
+  /* align-items: flexstart; */
+  /* justify-content: center; */
+}
+.temp3
+{
+  height: 23%;
+  width: 22%;
+  margin-left: 24%;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+.temp4
+{
+  height: 450px;
+  width: 22%;
+   margin-left: 3%; 
+  border-radius: 10px;
+   opacity: 0.7; 
+}
+.temp5
+{
+  height: 450px;
+  width: 23%;
+  margin-left: 3%;
+  border-radius: 10px;
+  opacity: 0.8;
+}      
+.temp6
+{
+  height: 450px;
+  width: 22%;
+  margin-left: 24%;
+  margin-top: 1.5%;
+  border-radius: 10px;
+  opacity: 0.8;
+}
+.temp7
+{
+  height: 450px;
+  width: 22%;
+  margin-left: 3%;
+  border-radius: 10px;
+  opacity: 0.8;
+} 
+.temp8
+{
+  height: 450px;
+  width: 23%;
+  margin-left: 3%;
+  border-radius: 10px;
+  opacity: 0.8;
+}   
+
+.ele{
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.ele:hover{
+  opacity: 1;
+  transition: .5s;
+}
